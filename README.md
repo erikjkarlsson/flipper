@@ -22,3 +22,11 @@
   * Build USB controller: `./fbt build APPSRC=hid_usb2`
   * Test USB controller: `./fbt launch APPSRC=hid_usb2`  
 
+## Usage:
+
+ - Switch to Left Workspace: <left> mapped to S-<left>
+ - Switch to Right Workspace: <right> mapped to S-<right>
+ - Switch Prev Window: <up> mapped to S-<backtab>
+ - Switch Next Window: <down> mapped to S-<tab>
+ - Return: <select> mapped to <return>
+ - Tab: <back> mapped to <tab>
